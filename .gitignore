@@ -110,3 +110,6 @@ $RECYCLE.BIN/
 *.msm
 *.msp
 *.lnk
+
+### IDEA ###
+.idea
