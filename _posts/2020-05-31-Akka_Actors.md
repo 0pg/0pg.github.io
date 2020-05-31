@@ -3,7 +3,8 @@ title: "Akka - Actors"
 categories:
   - akka
 tags:
-  - akka actor
+  - akka
+  - actor
 last_modified_at: 2020-05-31T00:00:00+09:00
 toc: true
 toc_sticky: true
