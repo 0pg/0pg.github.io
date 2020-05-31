@@ -246,6 +246,7 @@ toc_sticky: true
 
 ## Routers
 * routee actor 들로 메세지를 포워딩하는 actor
+
 ### Pool Router
 * Routee 를 직접 생성하고 관리
 	* Routee 의 parent actor
