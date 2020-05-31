@@ -284,7 +284,8 @@ toc_sticky: true
 	* internal dispatcher 의 strategy 도 설정할 수 있다
 
 > **blocking operation 은 해당 dispatcher 를 공유하는 다른 Actor 의 실행에도 영향을 끼치므로 주의** 
-* blocking operation 이 필요한 actor 들은 dispatcher 를 분리하여 처리하는 것을 고려해볼 수 있다  
+>
+>blocking operation 이 필요한 actor 들은 dispatcher 를 분리하여 처리하는 것을 고려해볼 수 있다  
 
 ### Types of dispatchers
 * Dispatcher
