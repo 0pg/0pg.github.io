@@ -1,7 +1,7 @@
 ---
 title: "Vector Clock"
 categories:
-  - distributed
+  - distributed system
 tags:
   - distributed system
   - vector clock

@@ -1,7 +1,7 @@
 ---
 title: "Conflict Free Replicated Data Types"
 categories:
-  - distributed
+  - distributed system
 tags:
   - distributed system
   - CRDTs
